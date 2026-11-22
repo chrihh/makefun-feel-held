@@ -2,7 +2,9 @@
 
 The program is deterministic and uses only the Python standard
 library. It writes TEXT to /output/entry.txt as UTF-8, with no
-trailing newline, so the file is exactly the text itself.
+trailing newline, so the file is exactly the text itself: a
+quiet room, a chair that holds your weight, a riverbank that
+holds the river — support that asks nothing and does not let go.
 """
 
 import os
